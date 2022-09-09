@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+<metadata>
+   <title>"Ballad of Booker T.,"</title> by 
+   <author>Langston Hughes</author>, 
+   <date format="1941-06-01">June 1, 1941</date>
+</metadata>
+
+<h1>
+<title>BALLAD OF BOOKER T.</title>
+by
+<author>Langston Hughes</author>
+</h1>
+<song>
+<part n="1">    
+<line>Booker T.</line>
+<line>Was a <adj j="1">practical</adj> man.</line>
+<line>He <act t="1">said</act>, Till the soil</line>
+<line>And <act t="2">learn</act> from the land.</line>
+<line><act t="3">Let</act> down your bucket</line>
+<line>Where you are.</line>
+<line>Your fate is here</line>
+<line>And not afar.</line>
+<line>To <act t="4">help</act> yourself</line>
+<line>And your fellow man,</line>
+<line><act t="5">Train</act> your head,</line>
+<line>Your heart, and your hand.</line>
+<line>For smartness alone's</line>
+<line>Surely not <act t="6">meet</act></line>
+<line>If you haven't at the same time</line>
+<line>Got something to <act t="7">eat</act>.</line>
+</part>
+<part n="2">
+<line>Thus at Tuskegee</line>
+<line>He <act t="8">built</act> a school</line>
+<line>With book-learning there</line>
+<line>And the workman's tool.</line>
+<line>He <act t="9">started</act> out</line>
+<line>In a <adj j="2">simple</adj> way—</line>
+<line>For yesterday</line>
+<line>Was not today.</line>
+<line>Sometimes he had</line>
+<line>Compromise in his talk—</line>
+<line>For a man must <act t="10">crawl</act></line>
+<line>Before he can <act t="11">walk</act></line>
+</part>—
+<part n="3">
+<line>And in Alabama in '85</line>
+<line>A joker was lucky</line>
+<line>To be alive.</line>
+<line>But Booker T.</line>
+<line>Was nobody's <adj j="3">fool</adj>:</line>
+<line>You may <act t="12">carve</act> a dream</line>
+<line>With an <adj j="4">humble</adj> tool.</line>
+<line>The <adj j="5">tallest</adj> tower</line>
+<line>Can tumble down</line>
+<line>If it be not rooted</line>
+<line>In <adj j="6">solid</adj> ground.</line>
+</part>
+<part n="4">
+<line>So, being a far-seeing</line>
+<line>Education and Outreach Division</line>
+<line><adj j="7">Practical</adj> man,</line>
+<line>He <act t="13">said</act>, <act t="14">Train</act> your head,</line>
+<line>Your heart, and your hand.</line>
+<line>Your fate is here</line>
+<line>And not afar,</line>
+<line>So <act t="15">let</act> down your bucket</line>
+<line>Where you are.</line>
+</part>
+</song>
+<h2>
+    <stamp text="The Library of Congress">Next to lines 5 to 10</stamp>
+    <signature text="Langston Hughes">Over the h3</signature>
+</h2>
+<h3>
+<author>LANGSTON HUGHES</author>
+<draft>Final Draft,</draft>
+<address>Hollow Hills Farm,
+Monterey, California,</address>
+<date>June 1, 1941.</date>
+</h3>
+</xml>
