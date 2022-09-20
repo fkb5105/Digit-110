@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml> <!-- document missing root tag -->
+    <sourceDoc>
+        See also (alternative article): https://www.xml.com/articles/2018/02/10/xml-20/
+        <title>The World Wide Success That Is XML</title> <!-- title tag missing closing slash -->
+        <author>Liam Quin</author>
+        <source><ref>
+            <target src="https://www.w3.org/blog/2018/07/the-world-wide-success-that-is-xml/"></target>W3C blog
+        </ref> <!-- target tag missing the opening bracket and a src attribute to the link-->
+            <pubDate when="2018-07-27"/><!-- pubDate missing self-closing slash -->
+        </source>
+    </sourceDoc> 
+    <text>
+        <headLine>THE WORLD WIDE SUCCESS THAT IS XML</headLine>
+        <byLine><date when="2018-07-27">27 July 2018</date> by <author>Liam Quin</author> | Posted <!-- when attribute value missing quotation marks -->
+            in: <keyWords>XML, standards, validation, xml, xml schema, xquery, XSD, xsl,
+                XSLT</keyWords>
+        </byLine> <!-- byLine clsing tag had a lowercase l instead of an uppercase -->
+        <p>Most of the <orgName>XML Working Groups</orgName> have been closed by now; this year saw <orgName type="workGroup">XQuery</orgName> and <orgName type="workGroup">XSLT</orgName>
+            close, their work successfully completed.</p> <!-- p didn't have a closing bracket -->
+        <p>As we wind down work on standardizing the XML stack at <orgName>W3C</orgName> it’s worth looking at some of
+            what we have accomplished and why. <codeLang>W3C XML, the Extensible Markup Language</codeLang>, is one of
+            the world’s most widely-used formats for representing and exchanging information. The
+            final <codeLang type="stack">XML stack</codeLang> is more powerful and easier to work with than many people know,<!-- codeLang closing bracket had the slash at the end -->
+            especially for people who might not have used XML since its early days.</p><!-- p tag missing closing slash -->
+        <p>Thank you to all who have contributed.</p>
+        <p><author>Liam Quin</author>, leaving <orgName>W3C</orgName> this week after <duration quantity="17" unit="year">almost 17 years with <orgName type="workGroup">XML</orgName></duration>.</p><!-- orgName and duration tags were inversed -->
+    </text>
+</xml>

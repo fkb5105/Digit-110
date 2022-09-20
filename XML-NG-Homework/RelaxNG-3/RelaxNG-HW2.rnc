@@ -1,0 +1,10 @@
+start = root
+root = element root {metadata, letter, source}
+metadata = element metadata {author, title, date}
+author = element author {text}
+title = element title {text}
+date = element date {text}
+letter = element letter {paragraph+}
+paragraph = element paragraph {n, text}
+n = attribute n {xsd:integer}
+source = element source {text}
