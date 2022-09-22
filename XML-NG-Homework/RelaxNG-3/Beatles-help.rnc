@@ -1,0 +1,12 @@
+start = xml
+xml = element xml {metadata, song}
+metadata = element metadata {author, title, date}
+author = element author {text}
+title = element title {text}
+date = element date {format, text}
+format = attribute format {text}
+song = element song {verse+}
+verse = element verse {n, line+}
+n = attribute n {xsd:integer}
+line = element line {n, text, mixed {(chorus)*}}
+chorus = element chorus {text}

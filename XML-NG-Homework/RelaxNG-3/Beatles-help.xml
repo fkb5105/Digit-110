@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Beatles-help.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <metadata> 
+        <author>The Beatles</author> 
+        <title>Help!</title>
+        <date format="mm/dd/yyyy">8/6/1965</date>
+    </metadata>
+    <song> 
+        <verse n="1">
+        <line n="1">I need somebody</line> 
+        <line n="2"><chorus>(Help)</chorus> not just anybody</line> 
+        <line n="3"><chorus>(Help)</chorus> you know I need someone, help</line>
+      </verse>
+      <verse n="2">
+        <line n="4">So much younger than today</line>
+        <line n="5"><chorus>(I never need)</chorus> I never needed anybody's help in any way</line>
+        <line n="6"><chorus>(Now)</chorus> but now these days are gone <chorus>(these days are gone)</chorus></line> 
+        <line n="7">I'm not so self assured</line> 
+        <line n="8"><chorus>(And now I find)</chorus> now I find I've changed my mind</line> 
+        <line n="9">And opened up the doors</line>
+      </verse>
+      <verse n="3"> 
+        <line n="10">Help me if you can, I'm feeling down</line> 
+        <line n="11">And I do appreciate you being 'round</line>
+        <line n="12">Help me get my feet back on the ground</line> 
+        <line n="13">Won't you please, please help me</line>
+      </verse>
+        <verse n="4">
+        <line n="14">In oh so many ways</line> 
+        <line n="15"><chorus>(My independ-)</chorus> my independence seems to vanish in the haze</line> 
+        <line n="16"><chorus>(But)</chorus> but every now and then <chorus>(now and then)</chorus></line> 
+        <line n="17">I feel so insecure</line>
+        <line n="18"><chorus>(I know that I)</chorus> I know that I just need you like</line>
+        <line n="19">I've never done before</line>
+      </verse>
+      <verse n="5">
+        <line n="20">Help me if you can, I'm feeling down</line>
+        <line n="21">And I do appreciate you being 'round</line> 
+        <line n="22">Help me get my feet back on the ground</line> 
+        <line n="23">Won't you please, please help me</line>
+      </verse>
+      <verse n="6">
+        <line n="24">When I was younger, so much younger than today</line>
+        <line n="25">I never needed anybody's help in any way</line >
+        <line n="26"><chorus>(Now)</chorus> but now these days are gone <chorus>(these days are gone)</chorus></line> 
+        <line n="27">I'm not so self assured</line> 
+        <line n="28"><chorus>(And now I find)</chorus> now I find I've changed my mind</line> 
+        <line n="29">And opened up the doors</line>
+      </verse>
+      <verse n="7">
+        <line n="30">Help me if you can, I'm feeling down</line> 
+        <line n="31">And I do appreciate you being 'round</line> 
+        <line n="32">Help me get my feet back on the ground</line>
+        <line n="33">Won't you please, please help me, help me, help me, ooh</line>
+      </verse>
+    </song>
+</xml>
