@@ -3,9 +3,8 @@
 <xml>
     <intro>
         <title> Gingersnaps </title>
-        <descrpition>
- These crunchy, spicy rounds with their cracked, sugary tops are equally at home
-            dunked in tea, coffee, or milk, and frequently enjoyed during the November/December
+        <descrpition> These crunchy, spicy rounds with their cracked, sugary tops are equally at
+            home dunked in tea, coffee, or milk, and frequently enjoyed during the November/December
             holiday season. But they're just as welcome on a mellow, golden, late-September
             afternoon, with a comfortable lounge chair and a large glass of fresh-squeezed lemonade.
         </descrpition>
@@ -36,8 +35,13 @@
             </output>
         </info>
         <ingredient>
-            <ing n="1"><quant><amount num="0.75"/><unit type="cup"/></quant>
-                <ele>vegetable shortening</ele></ing>
+            <ing n="1">
+                <quant>
+                    <amount num="0.75"/>
+                    <unit type="cup"/>
+                </quant>
+                <ele>vegetable shortening</ele>
+            </ing>
             <ing n="2">
                 <quant>
                     <amount num="1"/>
@@ -64,7 +68,7 @@
                     <amount num="1"/>
                     <unit type="large"/>
                 </quant>
-                <ele>large egg</ele>
+                <ele>egg</ele>
             </ing>
             <ing n="6">
                 <quant>
@@ -73,8 +77,13 @@
                 </quant>
                 <ele>molasses</ele>
             </ing>
-            <ing n="7"><quant><amount num="2.33"/><unit type="cup"/></quant>
-                <ele><brand>King Arthur</brand> Unbleached All-Purpose Flour</ele></ing>
+            <ing n="7">
+                <quant>
+                    <amount num="2.33"/>
+                    <unit type="cup"/>
+                </quant>
+                <ele><brand>King Arthur</brand> Unbleached All-Purpose Flour</ele>
+            </ing>
             <ing n="8">
                 <quant>
                     <amount num="1.5"/>
@@ -117,9 +126,10 @@
         </ingredient>
 
         <instructions>
-            <step n="1"><act>Reheat</act> the oven to <temperature><amount num="375"/><unit type="F"
-                    /></temperature>. Lightly grease (or line with parchment) two baking
-                sheets.</step>
+            <step n="1"><act>Reheat</act> the oven to <temperature>
+                    <amount num="375"/>
+                    <unit type="F"/>
+                </temperature>. Lightly grease (or line with parchment) two baking sheets.</step>
             <step n="2"><act>Beat together</act> the shortening, sugar, salt, and baking
                 soda.</step>
             <step n="3"><act>Beat</act> in the egg, then the molasses.</step>
@@ -128,17 +138,24 @@
             <step n="5">To make the coating, <act>combine</act> the sugar and cinnamon, and
                     <act>place</act> in a shallow pan or dish.</step>
             <step n="6">
-                <act>Drop</act> the dough in <quant><amount num="1"/><unit type="inch"
-                /></quant>balls into the cinnamon-sugar mixture; a teaspoon cookie scoop is perfect
+                <act>Drop</act> the dough in <quant>
+                    <amount num="1"/>
+                    <unit type="inch"/>
+                </quant>balls into the cinnamon-sugar mixture; a teaspoon cookie scoop is perfect
                 here.</step>
             <step n="7"><act>Roll</act> the balls in the sugar to coat, then <act>transfer</act>
-                them to the prepared baking sheets, leaving at least <quant><amount num="1.5"/><unit
-                        type="inch"/>
+                them to the prepared baking sheets, leaving at least <quant>
+                    <amount num="1.5"/>
+                    <unit type="inch"/>
                 </quant> between them; they'll spread as they bake.</step>
-            <step n="8"><act>Bake</act> the cookies for <time><amount num="11"/><unit type="mins"
-                    /></time>, for cookies that are crisp around the edges, and "bendy" in the
-                center. Bake for <time><amount num="13"/><unit type="mins"/></time>,
-                for cookies that are crisp/crunchy all the way through.</step>
+            <step n="8"><act>Bake</act> the cookies for <time>
+                    <amount num="11"/>
+                    <unit type="mins"/>
+                </time>, for cookies that are crisp around the edges, and "bendy" in the center.
+                Bake for <time>
+                    <amount num="13"/>
+                    <unit type="mins"/>
+                </time>, for cookies that are crisp/crunchy all the way through.</step>
             <step n="9"><act>Remove</act> the cookies from the oven, and cool right on the pan, or
                 on a rack. <act>Cool</act> completely, then <act>store</act> tightly wrapped, at
                 room temperature.</step>
